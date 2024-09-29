@@ -1,10 +1,10 @@
 # my_portfolio
 
-A new Flutter project.
+A Portfolio Page
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is mainly for practise Flutter.
 
 A few resources to get you started if this is your first Flutter project:
 
